@@ -37,14 +37,6 @@ Your personal information may be disclosed:
 AdMob, The Yandex Advertising Network ("YAN") is a platform for placing ads on websites,
 in mobile apps, and in Telegram channels. In order to understand YAN's use of Data, consult YAN's rules of participation.
 
-Personal Data:
-* Online identifiers, including cookie identifiers
-* IP addresses
-* Device identifiers
-* Client identifiers
-* unique device identifiers for advertising
-* Usage Data.
-
 Online resources:
 * Service Information                                    https://yandex.ru/support2/partner/en/?lang=en
 * Rules of participation in Yandex Advertising Network   https://policies.google.com/technologies/partner-sites
@@ -94,10 +86,9 @@ practices of any third-party sites or services.
 
 6. Children’s Privacy
 
-These Services do not address anyone under the age of 16. I do not knowingly collect
-personally identifiable information from children under 16. In the case I discover that
-a child under 16 has provided me with personal information, I immediately delete those
-informations. If you are a parent or guardian and you are aware that your child has
+I do not knowingly collect personally identifiable information from children under 16. 
+In the case I discover that a child under 16 has provided me with personal information,
+I immediately delete those informations. If you are a parent or guardian and you are aware that your child has
 provided personal information, please contact me so that I will be able to do necessary
 actions.
 
